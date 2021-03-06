@@ -1,0 +1,6 @@
+akteb el script
+fel scene mn bara create empty
+a7ot el script gowa el empty dah
+hayezharly makan lelcharacter aw bma3na asa7 el global variable bta3ty fel script , ha7ot feha el zombie bta3y
+a7ot el empty dah fel assets wamsa7o mn el scene
+fel drawable bta3 eltracker bta3 el imagetracker ha7ot el empty dah mn el assets

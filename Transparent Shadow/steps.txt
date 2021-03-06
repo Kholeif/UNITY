@@ -1,0 +1,5 @@
+drag/dropfile to assests
+create new material fel assets
+fel material dah >> shader = AR > esm el file    ORRRRRR    an2el el file drag/drop lelmaterial w 5alas
+create plane in scene under imagetracker/trackable
+drag/drop material to it
